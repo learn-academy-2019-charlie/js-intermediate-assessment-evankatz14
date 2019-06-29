@@ -87,3 +87,4 @@ oddChecker2 = (arr) => {
 }
 
 console.log(oddChecker2(fullArr))
+console.log('Tada!')
